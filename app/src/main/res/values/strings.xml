@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mini Yelp</string>
+    <string name="action_settings">Settings</string>
+    <string name="mini_yelp_title">Mini Yelp</string>
+    <string name="out_of_text_view">out of</string>
+    <string name="reviews_text_view">reviews</string>
+    <string name="package_name">com.tinakit.android.miniyelp</string>
+    <string name="most_recent_review_text_view">Most recent review:</string>
+    <string name="search_hint">Enter: food type,city</string>
+    <string name="results_for_text_view">Results for:</string>
+
+    <string name="search_button">Search</string>
+
+    <string name="cities_prompt">choose a city:</string>
+    <string-array name="cities_array">
+        <item>Choose city:</item>
+        <item>Altadena</item>
+        <item>Glendale</item>
+        <item>La Ca&#241;ada</item>
+        <item>Los Angeles</item>
+        <item>Pasadena</item>
+        <item>Sierra Madre</item>
+    </string-array>
+
+
+</resources>
